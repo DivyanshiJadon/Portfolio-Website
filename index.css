@@ -362,17 +362,6 @@ transition: 0.3s ease-in-out;
         font-size: 90%;
     }
 }
-@media (max-width: 768px) {
-    .some-class {
-        display: none;
-    }
-}
-
-@media (min-width: 769px) {
-    .some-class {
-        display: block;
-    }
-}
 
 
 
